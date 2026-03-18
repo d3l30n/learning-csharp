@@ -1,2 +1,3 @@
 # learning-csharp
-idk 
+---
+All my studies about C#.
