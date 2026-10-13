@@ -70,11 +70,12 @@ namespace CursoCSharp {
                 {"Igualdade - Coleções", Igualdade.Executar},
                 {"Stack - Coleções", ColecaoStack.Executar},
                 {"Dictionary - Coleções", ColecoesDictionary.Executar},
-             
+              
                 // OO              
                 {"Herança - OO", Heranca.Executar},
                 {"Construtor This - OO", ConstrutorThis.Executar},
                 {"Encapsulamento - OO", OO.Encapsulamento.Executar},
+                {"Polimorfismo - OO", Polimorfismo.Executar},
             }); 
 
             central.SelecionarEExecutar();
