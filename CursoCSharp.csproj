@@ -96,6 +96,7 @@
     <Compile Include="Fundamentos\PrimeiroPrograma.cs" />
     <Compile Include="Fundamentos\VariáveisEConstantes.cs" />
     <Compile Include="OO\ConstrutorThis.cs" />
+    <Compile Include="OO\Encapsulamento.cs" />
     <Compile Include="OO\Heranca.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -103,6 +104,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\EncapsulamentOo\Encapsulamento.csproj">
+      <Project>{ebe6185f-7e4f-464f-8294-5596d6f43fa5}</Project>
+      <Name>Encapsulamento</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
