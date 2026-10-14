@@ -95,6 +95,7 @@
     <Compile Include="Fundamentos\OperadorUnario.cs" />
     <Compile Include="Fundamentos\PrimeiroPrograma.cs" />
     <Compile Include="Fundamentos\VariáveisEConstantes.cs" />
+    <Compile Include="MetodosEFuncoes\ExemploLambda.cs" />
     <Compile Include="OO\Abstract.cs" />
     <Compile Include="OO\ConstrutorThis.cs" />
     <Compile Include="OO\Encapsulamento.cs" />
@@ -114,5 +115,6 @@
       <Name>Encapsulamento</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
