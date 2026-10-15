@@ -95,6 +95,7 @@
     <Compile Include="Fundamentos\OperadorUnario.cs" />
     <Compile Include="Fundamentos\PrimeiroPrograma.cs" />
     <Compile Include="Fundamentos\VariáveisEConstantes.cs" />
+    <Compile Include="MetodosEFuncoes\DelegateFunAnonima.cs" />
     <Compile Include="MetodosEFuncoes\ExemploLambda.cs" />
     <Compile Include="MetodosEFuncoes\LambdasDelegate.cs" />
     <Compile Include="MetodosEFuncoes\UsandoDelegates.cs" />
