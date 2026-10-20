@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Api\ExemploDateTime.cs" />
     <Compile Include="Api\ExemploFileInfo.cs" />
+    <Compile Include="Api\ExemploTimeSpan.cs" />
     <Compile Include="Api\LendoArquivos.cs" />
     <Compile Include="Api\PrimeiroArquivo.cs" />
     <Compile Include="CentralDeExercicios.cs" />

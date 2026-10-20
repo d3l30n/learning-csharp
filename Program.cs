@@ -102,6 +102,7 @@ namespace CursoCSharp {
                 {"Lendo Arquivos - Usando API", LendoArquivos.Executar},
                 {"Exemplo FileInfo - Usando API", ExemploFileInfo.Executar},
                 {"Exemplo DateTime - Usando API", ExemploDateTime.Executar},
+                {"Exemplo TimeSpan - Usando API", ExemploTimeSpan.Executar},
 
             
             }); 
